@@ -73,12 +73,12 @@ function App() {
           </div>
           <div>
             <h1 className='text-4xl font-semibold text-yellow-400 uppercase text-center'>Đồ án tốt nghiệp</h1>
-            <h2 className='text-2xl font-semibold text-white my-4 text-center'>Đề tài: </h2>
+            <h2 className='text-2xl font-semibold text-white my-4 text-center'>Đề tài: Nghiên cứu xây dựng mô hình nhà thông minh ứng dụng công nghệ IoT</h2>
           </div>
         </div>
         <div>
-          <p className='text-xl font-medium text-white text-left'>Họ và tên: </p>
-          <p className='text-xl font-medium text-white text-left'>MSV: </p>
+          <p className='text-xl font-medium text-white text-left'>Họ và tên: Trần Thị Loan </p>
+          <p className='text-xl font-medium text-white text-left'>MSV: DT040231 </p>
         </div>
       </div>
       <div className='p-4 flex gap-4 flex-wrap items-center justify-center'>
