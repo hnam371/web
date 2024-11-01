@@ -65,15 +65,16 @@ function App() {
       <div className='bg-blue-500 p-4 relative'>
         <div className='flex flex-wrap justify-between gap-4'>
           <div className='flex flex-wrap gap-2'>
-            <img src='logo-hvktmm.png' alt='avatar' className='rounded-full w-20 h-20' />
+            <img src='logo-hvktmm.png' alt='avatar' className='rounded-full w-40 h-40' />
             <div className='flex flex-col items-center'>
               <h1 className='text-2xl font-semibold uppercase text-white'>Học viện kĩ thuật mật mã</h1>
               <h2 className='text-xl font-semibold uppercase text-white'>Khoa Điện tử - Viễn thông</h2>
             </div>
           </div>
           <div>
-            <h1 className='text-4xl font-semibold text-yellow-400 uppercase text-center'>Đồ án tốt nghiệp</h1>
-            <h2 className='text-2xl font-semibold text-white my-4 text-center'>Đề tài: Nghiên cứu xây dựng mô hình nhà thông minh ứng dụng công nghệ IoT</h2>
+            <h1 className='text-4xl font-semibold text-yellow-400 uppercase text-center' >Đồ án tốt nghiệp</h1>
+            <h2 className='text-2xl font-semibold text-white my-4 text-center' style={{ fontFamily: 'Arial, sans-serif' }}>Đề tài: Nghiên cứu xây dựng mô hình nhà thông minh ứng dụng công nghệ IoT</h2>
+            <h2 className='text-2xl font-bold text-white my-4 text-center'>GVHD: TS. Nguyễn Thế Truyện</h2>
           </div>
         </div>
         <div>
